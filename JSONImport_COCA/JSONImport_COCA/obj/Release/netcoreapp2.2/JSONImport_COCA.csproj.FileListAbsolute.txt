@@ -1,0 +1,11 @@
+C:\Users\coca\source\repos\JSONImport_COCA\JSONImport_COCA\bin\Release\netcoreapp2.2\JSONImport_COCA.deps.json
+C:\Users\coca\source\repos\JSONImport_COCA\JSONImport_COCA\bin\Release\netcoreapp2.2\JSONImport_COCA.runtimeconfig.json
+C:\Users\coca\source\repos\JSONImport_COCA\JSONImport_COCA\bin\Release\netcoreapp2.2\JSONImport_COCA.runtimeconfig.dev.json
+C:\Users\coca\source\repos\JSONImport_COCA\JSONImport_COCA\bin\Release\netcoreapp2.2\JSONImport_COCA.dll
+C:\Users\coca\source\repos\JSONImport_COCA\JSONImport_COCA\bin\Release\netcoreapp2.2\JSONImport_COCA.pdb
+C:\Users\coca\source\repos\JSONImport_COCA\JSONImport_COCA\obj\Release\netcoreapp2.2\JSONImport_COCA.csproj.CoreCompileInputs.cache
+C:\Users\coca\source\repos\JSONImport_COCA\JSONImport_COCA\obj\Release\netcoreapp2.2\JSONImport_COCA.AssemblyInfoInputs.cache
+C:\Users\coca\source\repos\JSONImport_COCA\JSONImport_COCA\obj\Release\netcoreapp2.2\JSONImport_COCA.AssemblyInfo.cs
+C:\Users\coca\source\repos\JSONImport_COCA\JSONImport_COCA\obj\Release\netcoreapp2.2\JSONImport_COCA.dll
+C:\Users\coca\source\repos\JSONImport_COCA\JSONImport_COCA\obj\Release\netcoreapp2.2\JSONImport_COCA.pdb
+C:\Users\coca\source\repos\JSONImport_COCA\JSONImport_COCA\obj\Release\netcoreapp2.2\JSONImport_COCA.csprojAssemblyReference.cache
